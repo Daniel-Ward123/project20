@@ -1,0 +1,105 @@
+html{
+  
+    background-color:white;
+    margin: 1%;
+    
+}
+body{
+    border: 1% solid black;
+}
+nav {
+    background-color: black;
+    padding:5px;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li{
+    list-style-type: none;
+    background-color: greenyellow;
+    display: inline;
+    padding: 15px;
+    margin: 5px; 
+    margin: 5%;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    height: 200px;
+    background-color: green;
+    font-size: 1.3vw;
+}
+nav ul li:hover{
+    background-color: yellow;
+}
+.frontimage {
+    float: right;
+    width: 18%;
+    text-align: center;
+}
+.images {
+    text-align:justify;
+    margin-top:1%;
+    color: black;
+    display: inline;
+}
+footer{
+    background-color: black;
+    padding:5px;
+    clear: both;
+    position: relative;
+}
+footer ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+footer ul li{
+    list-style-type: none;
+    background-color:greenyellow;
+    display: inline;
+    padding: 15px;
+    margin: 5px; 
+    border: 2px solid green; 
+    margin: 5%;
+    border-radius: 10px
+}
+footer ul li a{
+    color: white;
+    text-decoration: none;
+    height: 200px;
+    background-color: green;
+    font-size: 1.3vw;
+}
+footer ul li:hover{
+    background-color: yellow;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+}
+#active {
+    background-color: green;
+}
+
+p{
+    font-family: cursive;
+}
+#background {
+    margin: 3px;
+    border: 2px solid black;
+}
+#maps {
+    float: right;
+    width: 50%;
+}
+.responsive {
+    width: 32%;
+    height: auto;
+}
+
+#active2 {
+    
+}
